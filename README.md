@@ -3,7 +3,7 @@
 📧 m.sakil.cse@gmail.com · 📍 Dhaka, Bangladesh
 
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iVi5la1Xb0TeCFDOm3NoOeyA3DTCVMwE/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sakil/)
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/))](https://www.linkedin.com/in/ahmed-sakil/)
 [![LeetCode](https://img.shields.io/badge/CodeForces-FFA116?style=flat&logo=codeforces&logoColor=black)](https://codeforces.com/profile/Md.Sakil.ahmed)
 
 
